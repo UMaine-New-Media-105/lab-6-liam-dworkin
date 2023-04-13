@@ -9,9 +9,12 @@ function setup() {
   //having trouble forcing interaction
   //this is actually better than it was
   
-   Y = random(30, 350);
-   X = random(30, 350);
-
+   X1 = random(20, 450);
+   X2 = random(20, 450); 
+   X3 = random(20, 450);
+   X4 = random(20, 450); 
+   X5 = random(20, 450);
+  
 }
 
 function draw() {
@@ -19,7 +22,17 @@ function draw() {
   
   yeetBall(spriteX, spriteY,1);
   
-  coin(X, Y, 1);
+  //at least 5 random coins appear now
+  
+  coin(X1, X1, 1);
+  
+  coin(X2, X2, 1);
+  
+  coin(X3, X3, 1);
+  
+  coin(X4, X4, 1);
+  
+  coin(X5, X5, 1);
   
 }
 
