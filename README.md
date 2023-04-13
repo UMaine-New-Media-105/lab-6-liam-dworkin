@@ -4,4 +4,6 @@ Don't know how to do it correctly yet. I'll try and figure it out. Here's as far
 
 I have to figure out how to institute collision so it correctly connects between the two sprites. 
 
-https://editor.p5js.org/liamdworkin/sketches/nd9McRuVq (Link to the code) 
+Link to code: https://editor.p5js.org/liamdworkin/sketches/nd9McRuVq (Link to the code) 
+
+My second attempt uses the same code link. I tried to change a little bit around but struggled to get it to work. I did get the sprite to move and 5 random coins to appear. I'm having trouble getting it to go farther than that. 
